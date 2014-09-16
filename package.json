@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git@github.com:blacha/node-restify-barebones.git"
+    "url": "git@github.com:p0wdrdotcom/restify-test-harness-barebones.git"
   },
   "dependencies": {
     "moment": "~2.5.1",
