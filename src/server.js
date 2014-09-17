@@ -44,7 +44,7 @@
     }));
 
     // Load in the routes
-    require('./routes/sample')(server);
+    require('./routes/deals')(server);
 
     exports.startServer = function (callback) {
 

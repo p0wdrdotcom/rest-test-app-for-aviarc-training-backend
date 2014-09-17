@@ -1,7 +1,7 @@
 {
   "author": "Geoff McIver",
-  "name": "resttestharness",
-  "description": "Base REST Test harness.",
+  "name": "Aviarc Air Deals Service",
+  "description": "This service returns the current deals that Aviarc Air is currently offering.",
   "version": "0.0.1",
   "repository": {
     "type": "git",
